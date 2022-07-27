@@ -1,0 +1,19 @@
+*********** Launch chrome browser - Testing OpenCart Menu************
+******** Verified Opencart title: OpenCart Features - passed ****************
+******** Verified Opencart title: OpenCart Demo - passed ****************
+******** Verified Opencart title: OpenCart Marketplace - passed ****************
+******** Verified Opencart title: OpenCart - Blog - passed ****************
+******** Verified Opencart title: OpenCart - Downloads - passed ****************
+****** Launching Chrome browser - Start positive test********
+********Verified title: OpenCart - Showcase passed **********
+********Verified title: OpenCart - Contact passed **********
+********Verified title: OpenCart - Partners passed **********
+********Verified title: OpenCart Documentation passed **********
+********Verified title: OpenCart Documentation passed **********
+********Verified title: OpenCart Documentation passed **********
+**********Launch Chrome Browser - Testing link to outside website: Community Forums ************
+********* Verified Opencart title: Community Index failed **************
+**********Launch Chrome Browser - Testing link to outside website: Facebook Community ************
+********* Verified Opencart title: Facebook failed **************
+**********Launch Chrome Browser - Testing link to outside website: Github Bug Tracker ************
+********* Verified Opencart title: Github failed **************
